@@ -20,22 +20,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Futuro desenvolvedor de games
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de foto para perfil LinkedIn que demonostre a profissão de desenvolvedor de jogos digitais. Na foto existe um homem e o mascote de seu primeiro jogo de sucesso.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Leonardo.Ai
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Testei vários prompts com textos que a IA deveria se basear. Escolhi oue o prompt que mais se aproxima da minha personalidade e aparência.
+prompt escolhido: image of a sucessfull game developer for linkedin. caucasian blue eyes black hair no glasses black clothes with a flamming dark bird mascot on shoulder
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![Leonardo_Phoenix_a_surreal_and_vibrant_cinematic_photograph_of_0](https://github.com/user-attachments/assets/f2dbcc96-b30a-4c2b-b9b4-b24a25cf81f3)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar uma imagem que trate da realidade ainda é muito dificil.
+Tentar simular o comportamento humano, detalhes da pele e cabelo, feições e outros, ainda é muito dificil. Existem 'N' variáveis a serem consideradas em uma criação de uma 'simples' imagem baseada em um prompt.
 ```
 
 ### Exemplos e Insigths
